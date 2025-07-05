@@ -8,7 +8,11 @@ Repositório dedicado à prática e experimentação com algoritmos de Machine L
 
 ```
 ML-playground/
+├── classification/
+├── clustering/
+├── preprocessing/
 ├── regression/
+├── LICENSE
 └── README.md
 ```
 
